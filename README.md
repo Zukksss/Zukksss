@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Okay so i am on the journey to become a Cloud Engineer, learning with Learn to Cloud, its been slow and a bit confusing but at the same time exciting; So i promise to study hard and i will see you at the top.
 <!--
 **Zukksss/Zukksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
